@@ -1,4 +1,5 @@
-sss.sh
+.classpath
+.project
+/node_module
 ppp.py
-/test
-
+sss.sh
